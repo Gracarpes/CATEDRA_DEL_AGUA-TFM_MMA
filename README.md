@@ -49,9 +49,9 @@ Para garantizar la reproducibilidad y el orden del código:
 │   ├── 01_definicion_componentes.ipynb
 │   ├── 02_modelo_reactor.ipynb
 │   └── 03_analisis_tea_lca.ipynb
-├── data/            # Datos de entrada para las simulaciones (parámetros kineticios, costes)
+├── data/            # Datos de entrada para las simulaciones (parámetros cinéticos, costes)
 ├── docs/            # Borradores de la memoria del TFM y gráficos generados
-├── environment.yml  # Archivo de Conda para replicar exactamente el entorno de librerías
+├── environment.yml  # Archivo de docker para replicar exactamente el entorno de librerías
 └── README.md        # Este archivo
 ```
 
